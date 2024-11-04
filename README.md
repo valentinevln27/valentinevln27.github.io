@@ -58,7 +58,7 @@ Au cours de ce stage, j’ai réalisé une comparaison entre une nouvelle techni
 ### [Stage]
 - **Description :** Evaluation des données de niveau marin obtenues par méthode GNSS-IR et distribuées par le service international PSMSL
 - **Lien vers le projet :** [Stage](https://github.com/valentinevln27/valentinevln27.github.io/blob/main/CR_stage_vanleene.pdf)
-- 
+
 ---
 
 ## 📫 Contact
