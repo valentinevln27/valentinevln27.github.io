@@ -49,8 +49,7 @@ Au cours de ce stage, j’ai réalisé une comparaison entre une nouvelle techni
 
 ### [TIPE de BCPST]
 - **Description :** Réduire l'impact écologique des systèmes d'isolation par l'installation de toitures végétalisées
-- **Compétences :** 
-- **Lien vers le projet :** [Lien GitHub](URL du dépôt)
+- **Lien vers le projet :** [[TIPE](https://github.com/valentinevln27/valentinevln27.github.io/blob/main/TIPE_vanleene.pdf)]
 
 ### [Autres Projets Significatifs]
 - **Description :** (Explique brièvement les autres projets en rapport avec l'environnement, la modélisation, ou l'analyse légale)
